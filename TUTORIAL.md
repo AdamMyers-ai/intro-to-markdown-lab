@@ -1,5 +1,7 @@
 # How to Write an HTML Boilerplate
 
+![Animated multi-colored folders](https://plus.unsplash.com/premium_photo-1677402408071-232d1c3c3787?q=80&w=1160&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 HTML boilerplate gives your webpage it's fundamental structure. In this tutorial, you'll learn **what an HTML boilerplate is, why it matters**, and **how to write one from scratch**.
 
 ---
